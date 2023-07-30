@@ -25,6 +25,10 @@
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Lightroom](https://camo.githubusercontent.com/dc07ada5bb0037d6717c13d27163d1d8367957125e5105c5857024952b66f87c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41646f62652b4c69676874726f6f6d26636f6c6f723d333141384646266c6f676f3d41646f62652b4c69676874726f6f6d266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
+## Destop Customisation
+
+![Rainmeter](https://camo.githubusercontent.com/21116ef9cb2d1b8da878fa6e59b47c7fd542108c1920b99dffc02b48c252d635/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5261696e6d6574657226636f6c6f723d313935313942266c6f676f3d5261696e6d65746572266c6f676f436f6c6f723d464646464646266c6162656c3d)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Surajpatra700&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Surajpatra700&theme=tokyonight&hide_border=false)<br/>
