@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍁 Currently working on Backend & Cloud Services<br>👯 looking to collaborate on Android Projects<br>🤝 Looking forward to help you in Flutter<br>🌱 Currently Trying to learn about WebSockets & Cloud Platform Services<br>💬 Fun Fact : Electron in a double slit experiment<br>📧 Email me at : patrasuraj1000@gmail.com
+🍁 Currently working on Backend & Machine Learning<br>👯 looking to collaborate on Android Projects<br>🤝 Looking forward to help you in Flutter<br>🌱 Currently Trying to learn about WebSockets & Cloud Platform Services<br>💬 Fun Fact : Electron in a double slit experiment<br>📧 Email me at : patrasuraj1000@gmail.com
 
 
 ## 🌐 Socials:
